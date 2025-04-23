@@ -9,7 +9,7 @@
         }
         public string GetMessage()
         {
-            return $"{_message} from library4";
+            return $"{_message} from Library4";
         }
     }
 }
