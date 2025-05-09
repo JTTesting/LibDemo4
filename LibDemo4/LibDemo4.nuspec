@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>LibDemo4</id>
+    <version>1.0.9</version>
+    <authors>Jameson Turner</authors>
+    <description>Testing Library examples.</description>
+  </metadata>
+</package>
